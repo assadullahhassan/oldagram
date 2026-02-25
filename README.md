@@ -39,5 +39,5 @@ A mobile-first Instagram clone that brings the world of 19th-century Post-Impres
       - GitHub: [@assadullahhassan](https://github.com/assadullahhassan/)
       - LinkedIn: [Assadullah Hassan](https://www.linkedin.com/in/assadullahhassan)
 
-Made from Scrimba by [Assadullah Hassan](https://scrimba.com/via=u4f4512)
+Made from Scrimba by [Assadullah Hassan](https://scrimba.com/?via=u4f4512)
 
